@@ -6,15 +6,11 @@
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [travis][![Build Status](https://travis-ci.com/401-advanced-javascript-aeaston/lab32-custom-hook-and-magical-todos.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aeaston/lab32-custom-hook-and-magical-todos)
 * [deployment on githubpages](https://401-advanced-javascript-aeaston.github.io/lab32-custom-hook-and-magical-todos)
 
 #### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+* [api docs](https://api-js401.herokuapp.com/api/v1/todo)
 
 ### Modules
 #### `index.js`
@@ -25,7 +21,7 @@ Entry point of the app.
 #### `app.js`
 ##### Exported Values and Methods
 
-
+Pulls togethor the modules and hooks.
 
 #### `shopping.js`
 ##### Exported Values and Methods
@@ -61,9 +57,7 @@ builds a queue system that can receive and broadcast categorized events
 * go to https://401-advanced-javascript-aeaston.github.io/lab32-custom-hook-and-magical-todos
   
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+type `npm test`
 
 #### UML
 Link to an image of the UML for your application and response to events
