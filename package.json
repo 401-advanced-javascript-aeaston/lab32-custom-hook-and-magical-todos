@@ -4,12 +4,15 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "homepage": "https://401-advanced-javascript-aeaston.github.io/lab32-custom-hook-and-magical-todos",
   "dependencies": {
     "@nmq/q": "1.0.5",
+    "gh-pages": "^2.1.1",
     "node-sass": "^4.12.0",
     "react": "16.9.0",
     "react-dom": "16.9.0",
-    "react-scripts": "3.1.2"
+    "react-scripts": "3.1.2",
+    "yarn": "^1.17.3"
   },
   "devDependencies": {
     "typescript": "3.3.3"
@@ -19,7 +22,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "deploy": "npm run build && aws s3 sync ./build s3://react-tdd-demo --acl public-read"
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
