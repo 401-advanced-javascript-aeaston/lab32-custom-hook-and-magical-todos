@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lab32-custom-hook-and-magical-todos/static/css/main.6389a10d.chunk.css",
+    "main.js": "/lab32-custom-hook-and-magical-todos/static/js/main.7b7c5cd2.chunk.js",
+    "main.js.map": "/lab32-custom-hook-and-magical-todos/static/js/main.7b7c5cd2.chunk.js.map",
+    "runtime-main.js": "/lab32-custom-hook-and-magical-todos/static/js/runtime-main.dc26d917.js",
+    "runtime-main.js.map": "/lab32-custom-hook-and-magical-todos/static/js/runtime-main.dc26d917.js.map",
+    "static/js/2.2e61ad13.chunk.js": "/lab32-custom-hook-and-magical-todos/static/js/2.2e61ad13.chunk.js",
+    "static/js/2.2e61ad13.chunk.js.map": "/lab32-custom-hook-and-magical-todos/static/js/2.2e61ad13.chunk.js.map",
+    "index.html": "/lab32-custom-hook-and-magical-todos/index.html",
+    "precache-manifest.05a2db3a8d1672f7653ef2ba827f4fbc.js": "/lab32-custom-hook-and-magical-todos/precache-manifest.05a2db3a8d1672f7653ef2ba827f4fbc.js",
+    "service-worker.js": "/lab32-custom-hook-and-magical-todos/service-worker.js",
+    "static/css/main.6389a10d.chunk.css.map": "/lab32-custom-hook-and-magical-todos/static/css/main.6389a10d.chunk.css.map"
+  }
+}
