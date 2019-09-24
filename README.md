@@ -5,7 +5,7 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-aeaston/lab32-custom-hook-and-magical-todos/pull/3)
 * [travis][![Build Status](https://travis-ci.com/401-advanced-javascript-aeaston/lab32-custom-hook-and-magical-todos.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aeaston/lab32-custom-hook-and-magical-todos)
 * [deployment on githubpages](https://401-advanced-javascript-aeaston.github.io/lab32-custom-hook-and-magical-todos)
 
