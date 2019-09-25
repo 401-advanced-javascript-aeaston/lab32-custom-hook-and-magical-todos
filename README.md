@@ -5,7 +5,7 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-aeaston/lab32-custom-hook-and-magical-todos/pull/3)
+* [submission PR](https://github.com/401-advanced-javascript-aeaston/lab32-custom-hook-and-magical-todos/pull/5)
 * [travis][![Build Status](https://travis-ci.com/401-advanced-javascript-aeaston/lab32-custom-hook-and-magical-todos.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aeaston/lab32-custom-hook-and-magical-todos)
 * [deployment on githubpages](https://401-advanced-javascript-aeaston.github.io/lab32-custom-hook-and-magical-todos)
 
@@ -60,4 +60,4 @@ builds a queue system that can receive and broadcast categorized events
 type `npm test`
 
 #### UML
-Link to an image of the UML for your application and response to events
+![UML]()
